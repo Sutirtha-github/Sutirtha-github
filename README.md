@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/University-DUTH, Greece-0057b7?style=for-the-badge" alt="University: DUTH" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Education-Enginnering Physics%20(B.Tech)-8a2be2?style=for-the-badge" alt="Education: EPH B.TECH" />
+  <img src="https://img.shields.io/badge/Education-Engineering Physics%20(B.Tech)-8a2be2?style=for-the-badge" alt="Education: EPH B.TECH" />
   <img src="https://img.shields.io/badge/University-IIT Roorkee-b56576?style=for-the-badge" alt="School: DPS Durgapur" />
 </p>
 
