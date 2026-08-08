@@ -79,9 +79,9 @@ Alongside my corporate IT career, I am affiliated to **Materials Science Departm
 ### Development and Automation
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,javascript,typescript,css,react,nextjs,nodejs&perline=12" alt="Development and automation technologies" />
-
-  <img src="https://skillicons.dev/icons?i=jira,mongo,autocad,vscode,postman,vercel&perline=12" alt="Development and automation technologies" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,javascript,typescript,css,react,nextjs,nodejs&perline=12" alt="Development and automation stack" />
+  
+  <img src="https://skillicons.dev/icons?i=jira,mongo,autocad,vscode,postman,vercel&perline=12" alt="Development and automation tools"/>
 </p>
 
 ### Quantum Computing Ecosystem
