@@ -80,30 +80,35 @@ Alongside my corporate IT career, I am affiliated to **Materials Science Departm
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,javascript,typescript,css,react,nextjs,nodejs&perline=12" alt="Development and automation stack" />
-  
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=jira,mongo,autocad,vscode,postman,vercel&perline=12" alt="Development and automation tools"/>
 </p>
 
 ### Quantum Computing Ecosystem
 
-<p align="left">
-
+<p align="center">
 <!-- Quantum SDKs -->
 <img src="https://img.shields.io/badge/Qiskit-7B61FF?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
 <img src="https://img.shields.io/badge/PennyLane-2088FF?style=for-the-badge&logo=pennylane&logoColor=white" alt="PennyLane" />
 <img src="https://img.shields.io/badge/CUDAQ-FC6D26?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA-Q" />
+</p>
 
+<p align="center">
 <!-- Open Quantum Systems & Simulation -->
 <img src="https://img.shields.io/badge/OQuPy-E6522C?style=for-the-badge&logo=python&logoColor=white" alt="OQuPy" />
 <img src="https://img.shields.io/badge/QuTiP-F46800?style=for-the-badge&logo=python&logoColor=white" alt="QuTiP" />
+</p>
 
+<p align="center">
 <!-- Tensor Networks -->
 <img src="https://img.shields.io/badge/Tensor%20Networks-000000?style=for-the-badge&logo=abstract&logoColor=white" alt="Tensor Networks" />
+</p>
 
+<p align="center"> 
 <!-- Physics-Informed ML -->
 <img src="https://img.shields.io/badge/SciML-FF8C00?style=for-the-badge&logo=julia&logoColor=white" alt="SciML" />
 <img src="https://img.shields.io/badge/PINN/PINO-0F1689?style=for-the-badge&logo=neural-network&logoColor=white" alt="PINNs" />
-
 </p>
 
 
