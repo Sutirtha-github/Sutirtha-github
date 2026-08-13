@@ -127,7 +127,10 @@ Alongside my corporate IT career, I am affiliated to **Materials Science Departm
 ## `$ git streak`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sutirtha-github&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Sutirtha-github&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
 </p>
 
 ---
